@@ -16,7 +16,7 @@ A webapp to load maximum possible past tweets from any given username using the 
 1. Clone via git:
 
 ```
-$ git clone git@github.com:yashprakash13/tweet-loader.git
+$ git clone git@github.com:meodmt/tweet-loader.git
 ```
 
 2. Open two tabs, one for the client, one for the backend:
